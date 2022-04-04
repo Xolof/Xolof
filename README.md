@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xolof
-- 👀 I’m interested in making fast and user friendly applications.
-- 🌱 My current learning focus is on React. Along the way I also try to learn more about Linux, Nginx, Docker, MySQL, PHP, Laravel, NodeJS, Sass and many more tools. When I know React a little bit better I will explore Svelte. Then I plan to make some projects with Next.js and maybe some other static site generators. Maybe I will try setting up some headless Wordpress and possibly Woocommerce with Next.js.
+- 👀 I’m interested in everyhting related to fullstack development.
+- 🌱 My current learning focus is on React. Later I will look more into TypeScript and Svelte. I also plan on learning more about Linux, Nginx, Docker, MySQL, PHP, Laravel, NodeJS, Sass and some other tools.
 - 📫 Reach me on oljo@protonmail.ch
 - [oljo.xyz](https://oljo.xyz)
 
