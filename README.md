@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Xolof
-- 👀 I’m interested in everyhting related to fullstack development.
-- 🌱 My current learning focus is on React. Later I will look more into TypeScript and Svelte. I also plan on learning more about Linux, Nginx, Docker, MySQL, PHP, Laravel, NodeJS, Sass and some other tools.
+- 👀 I’m interested in everyhting related to fullstack development, and in becoming a better developer.
 - 📫 Reach me on oljo@protonmail.ch
 - [oljo.xyz](https://oljo.xyz)
 
