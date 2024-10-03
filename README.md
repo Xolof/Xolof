@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Xolof
 - 👀 I’m interested in everyhting related to fullstack development, and in becoming a better developer.
 - 📫 Reach me on oljo@protonmail.ch
-- [oljo.xyz](https://oljo.xyz)
 
 <!---
 Xolof/Xolof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
